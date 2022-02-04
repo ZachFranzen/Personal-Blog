@@ -23,6 +23,9 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
 search: true
+header:
+  image: "/assets/images/splashpage.jpg"
+  image_description: "posts layout header"
 
 # Build settings
 markdown: kramdown
