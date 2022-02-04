@@ -95,7 +95,8 @@ defaults:
     values:
       layout: single
       header:
-        image: "/assets/images/splashpage"
+        image: "/assets/images/splashpage.jpg"
+        image_description: "posts layout header"
       author_profile: true
       read_time: true
       comments: true
@@ -108,7 +109,8 @@ defaults:
     values:
       layout: single
       header:
-        image: "/assets/images/splashpage"
+        image: "/assets/images/splashpage.jpg"
+        image_description: "pages layout header"
       author_profile: true
 
 category_archive:
