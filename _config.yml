@@ -94,8 +94,6 @@ defaults:
       type: posts
     values:
       layout: single
-      header:
-        image: "/assets/images/pexels-eberhard-grossgasteiger-10620138-cropped.jpg"
       author_profile: true
       read_time: true
       comments: true
@@ -108,7 +106,7 @@ defaults:
     values:
       layout: single
       header:
-        image: "/assets/images/pexels-eberhard-grossgasteiger-10620138-cropped.jpg"
+        image: "/assets/images/TestAnimation.gif"
       author_profile: true
 
 category_archive:
