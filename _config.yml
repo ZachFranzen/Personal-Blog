@@ -80,7 +80,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       header:
         image: "/assets/images/splashpage.jpg"
         image_description: "posts layout header"
