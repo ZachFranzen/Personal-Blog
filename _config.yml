@@ -95,7 +95,7 @@ defaults:
     values:
       layout: single
       header:
-        image: /assets/images/pexels-eberhard-grossgasteiger-10620138-cropped.jpg
+        image: "/assets/images/pexels-eberhard-grossgasteiger-10620138-cropped.jpg"
       author_profile: true
       read_time: true
       comments: true
