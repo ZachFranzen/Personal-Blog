@@ -21,5 +21,22 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: #ECEFF4 !default;
 $navicon-link-color-hover: #ECEFF4 !default;
 
+$base00: #2E3440 !default;
+$base01: #3B4252 !default;
+$base02: #434C5E !default;
+$base03: #4C566A !default;
+$base04: #D8DEE9 !default;
+$base05: #E5E9F0 !default;
+$base06: #ECEFF4 !default;
+$base07: #8FBCBB !default;
+$base08: #88C0D0 !default;
+$base09: #81A1C1 !default;
+$base0a: #5E81AC !default;
+$base0b: #BF616A !default;
+$base0c: #D08770 !default;
+$base0d: #EBCB8B !default;
+$base0e: #A3BE8C !default;
+$base0f: #B48EAD !default;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
