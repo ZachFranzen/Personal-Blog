@@ -94,7 +94,8 @@ defaults:
       type: posts
     values:
       layout: single
-
+      header:
+        image: /images/assets/pexels-eberhard-grossgasteiger-10620138-cropped.jpg
       author_profile: true
       read_time: true
       comments: true
