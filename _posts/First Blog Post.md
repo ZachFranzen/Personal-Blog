@@ -1,3 +1,14 @@
+---
+title: "Post: First Blog Post"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+  - Post Formats
+  - readability
+  - standard
+---
+
 # First Blog Post
 
 ![][image_ref_70zd5n95]
