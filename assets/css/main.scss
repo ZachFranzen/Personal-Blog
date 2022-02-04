@@ -18,8 +18,8 @@ $link-color: #8FBCBB !default;
 $link-color-hover: #88C0D0 !default;
 $link-color-visited: #B48EAD !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$masthead-link-color-hover: #ECEFF4 !default;
+$navicon-link-color-hover: #ECEFF4 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
