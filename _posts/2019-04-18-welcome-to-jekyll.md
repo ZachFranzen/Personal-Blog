@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - Jekyll
+  - standard
   - update
 header:
   teaser: "/assets/images/500x300.jpg"
