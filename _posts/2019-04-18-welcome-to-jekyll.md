@@ -6,7 +6,7 @@ categories:
 tags:
   - Jekyll
   - update
-teaser: /assets/images/500x300.jpg
+teaser: "/assets/images/500x300.jpg"
 ---
 
 First blog post test
