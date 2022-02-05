@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Zach Franzen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Incessant Tinkerer | Problem Solver"
+  bio    : "Short Bio goes here!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
